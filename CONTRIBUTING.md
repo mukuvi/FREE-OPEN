@@ -42,4 +42,4 @@ git push origin 'feature-name'
 
 ## 7.Submit a pull request
 
-Go to the original repository and click on "New Pull Request". Provide a descriptive title and explain your changes
+Go to the original repository and click on "New Pull Request". Provide a descriptive title and explain your changes.
